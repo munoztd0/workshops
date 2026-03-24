@@ -17,7 +17,7 @@ CRUG R Meetings: 2 Frebruary 2026,
  
 PHUSE BASEL : 23 September 2025,
 *Joining the pharmaverse Revolution; Junco* David Munoz Tord (Johnson & Johnson)
- [Slides]([https://munoztd0.github.io/R_Package-Dev/#/title-slide](https://phuse.s3.eu-central-1.amazonaws.com/Archive/2025/SDE/EU/Basel/Basel02.pdf)) 
+ [Slides](https://phuse.s3.eu-central-1.amazonaws.com/Archive/2025/SDE/EU/Basel/Basel02.pdf)) 
 
 
 <br>
