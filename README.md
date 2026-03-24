@@ -6,17 +6,6 @@ Moreover, if you are interested in the project don’t hesitate to share your st
 
 ## R Lunches 
 
-
-Tuesday (12pm-13pm), 28 February 2023, UniMail TBD [Zoom link (soon)](https://we-data-ch.github.io/workshops/XXX)
-*Using vim with R* - Fabrice Hategekimana (University of Geneva)
-<!-- [Slides (soon)](https://we-data-ch.github.io/workshops/XXX) -->
-
-<br>
-
-Tuesday (12pm-13pm), 7 March 2023, UniMail M3220 [Zoom link (soon)](https://we-data-ch.github.io/workshops/XXX)
-*Beautiful, easy-to-use, highly interactive data visualization with R: Leveraging Apache ECharts* Jean Philippe Coene (Opifex)
-<!-- [Slides (soon)](https://we-data-ch.github.io/workshops/XXX) -->
-
 <br>
 
 
@@ -25,17 +14,6 @@ Tuesday (12pm-13pm), 4 April 2023, UniMail M3220 [Zoom link (soon)](https://we-d
 <!-- [Slides (soon)](https://we-data-ch.github.io/workshops/XXX) -->
 
 <br>
-
-Tuesday (12pm-13pm), 4 May 2023, Zoom [Zoom link (soon)](https://we-data-ch.github.io/workshops/XXX)
-*Unravelling the port of Lists in R: The creations of the CORESIDENCE Database* Juan Galeano
-(Barcelona Center for Demographic Studies)
-<!-- [Slides (soon)](https://we-data-ch.github.io/workshops/XXX) -->
-
-<br>
-
-Tuesday (12pm-13pm), 4 May 2023, UniMail M4050 [Zoom link (soon)](https://we-data-ch.github.io/workshops/XXX)
-*{[hayalbaz](https://github.com/rundel/hayalbaz)}: Scrapping dynamic web page without dependencies in R* Vestin Hategekimana (University of Geneva)
-<!-- [Slides (soon)](https://we-data-ch.github.io/workshops/XXX) -->
 
 
 <br>
