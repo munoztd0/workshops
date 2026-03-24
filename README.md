@@ -4,23 +4,30 @@ Another purpose is to create a network of people interested in Data Science and 
 
 Moreover, if you are interested in the project don’t hesitate to share your stuff !
 
-## R Lunches 
+
+## Presentations
+
+
+CRUG R Meetings: 2 Frebruary 2026, 
+*Building an R Package: From Scripts to Standardized Open-Source Tools* David Munoz Tord (Cytel)
+ [Slides](https://munoztd0.github.io/R_Package-Dev/#/title-slide) 
+
+
+ <br>
+ 
+PHUSE BASEL : 23 September 2025,
+*Joining the pharmaverse Revolution; Junco* David Munoz Tord (Johnson & Johnson)
+ [Slides]([https://munoztd0.github.io/R_Package-Dev/#/title-slide](https://phuse.s3.eu-central-1.amazonaws.com/Archive/2025/SDE/EU/Basel/Basel02.pdf)) 
+
 
 <br>
 
 
-Tuesday (12pm-13pm), 4 April 2023, UniMail M3220 [Zoom link (soon)](https://we-data-ch.github.io/workshops/XXX)
+R Lunches: 4 April 2024, 
 *Learn to host your RMarkdown reports and Shiny application for free on the web with R and GitHub or Posit Connect* David Munoz Tord (We Data)
-<!-- [Slides (soon)](https://we-data-ch.github.io/workshops/XXX) -->
+ [Slides](https://we-data-ch.github.io/Web_Deployment_With_R/R-Lunch.html) 
 
 <br>
-
-
-<br>
-<br>
-<br>
-
-
 
 
 
