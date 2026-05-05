@@ -8,7 +8,19 @@ Moreover, if you are interested in the project don’t hesitate to share your st
 ## Presentations
 
 
-CRUG R Meetings: 2 Frebruary 2026, 
+R Lunches: 5 May 2026, 
+*Help me help you!* An introduction to R debugging* David Munoz Tord (We Data)
+[Slides](https://munoztd0.github.io/help_me_help_you_R_Debug) 
+
+ <br>
+
+CRUG R Meetings: 28 April 2026, 
+*Streamlining Clinical Trial Deliverables with R* David Munoz Tord (Cytel)
+ [Slides](https://munoztd0.github.io/CRUG_junco/#/title-slide) 
+
+ <br>
+
+CRUG R Meetings: 2 February 2026, 
 *Building an R Package: From Scripts to Standardized Open-Source Tools* David Munoz Tord (Cytel)
  [Slides](https://munoztd0.github.io/R_Package-Dev/#/title-slide) 
 
